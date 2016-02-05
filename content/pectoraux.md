@@ -11,8 +11,3 @@ title = "Les pectoraux"
 	git config --global user.name "Rodolphe Vanderaspoilden"
 	git config --global user.email "rodolphevanderaspoilden@outlook.fr"
 	git config --global http.proxy http://cache.univ-lille1.fr3128
-
-Vive les patates et le squat
-zdadza
-dzadzadzadz
-dzadza
