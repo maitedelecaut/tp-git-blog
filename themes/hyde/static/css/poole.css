@@ -74,7 +74,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: underline;
-  color: grey;
+  color: rgba(152,152,152);
 }
 
 /* Headings */
