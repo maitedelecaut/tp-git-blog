@@ -5,3 +5,9 @@ title = "Veyron"
 +++
 
 #Veyron
+
+##Configuration
+
+git config --global user.name "Alexandre Pellerin"
+git config --global user.email "pellerin.alex@orange.fr"
+git config --global http.proxy http://cache.univ-lille1.fr:3128
