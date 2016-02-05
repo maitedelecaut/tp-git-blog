@@ -16,5 +16,5 @@ FIN.
 
 ## Manger le canard
 
-Une histoire mangé
+Une histoire mange
 FIN.
