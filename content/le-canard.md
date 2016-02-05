@@ -6,4 +6,7 @@ title = "Le canard"
 
 #Le canard
 
+## Configuration
 
+Une histoire sur le canard.
+FIN.
