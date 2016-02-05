@@ -4,19 +4,17 @@ draft = true
 title = "Le canard"
 +++
 
-#Le canard
+# Le canard
 
-<<<<<<< HEAD
 Lucas le canard !
 Il se balade dans la foret et il rencontre paul le pigeon et dona la truie ils se marrierent et eurent beaucoup d'enfants.
-Mais un jour ... en nageant dans sa marre : la marre aux cannards il rencontra jojo le piranhas, jojo avait très faim et le mangea.
-Debute ensuite l'histoire de jojo le piranhas, jojo nageait tranquillement le ventre plein et rencontra un morceau de viande, il le happas dans la gueule et se senti entraine vers la surface, en effet c'etait un pecheur de piranhas qui pechait attendant patiement son repas, le pêcheur le pêcha, puis le mangea.
+Mais un jour ... en nageant dans sa marre : la marre aux cannards il rencontra jojo le piranhas, jojo avait tres faim et le mangea.
+Debute ensuite l'histoire de jojo le piranhas, jojo nageait tranquillement le ventre plein et rencontra un morceau de viande, il le happas dans la gueule et se senti entraine vers la surface, en effet c'etait un pecheur de piranhas qui pechait attendant patiement son repas, le pecheur le pecha, puis le mangea.
 Debute l'histoire du pecheur
 mais il mourru en tombant de sa barque.
 FIN.
-=======
-## Configuration
 
-Une histoire sur le canard.
+## Manger le canard
+
+Une histoire mange
 FIN.
->>>>>>> ae909e675c20d2df54457174558e4a4f02fdff8f
