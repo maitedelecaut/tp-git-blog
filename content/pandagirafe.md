@@ -17,4 +17,10 @@ title = "pandagirafe"
 ## Description
 Un panda est un animal qui vit en Asie, et qui est blanc et noir. 
 Une girafe est un animal qui vit en Afrique et qui est jaune avec des tâches marron et qui a un long cou donc qui peut manger les feuilles des arbres qui sont près du ciel. 
+<<<<<<< HEAD
 >>>>>>> 0475edeb40b99c715d24ae94f617256c9a9d0cbb
+=======
+Et un panda-girafe est un animal blanc avec des tâches noires qui mange des feuilles des arbres près du sol, malgré son grand cou. C'est un animal pas très intelligent.
+Et même que c'est drôle.
+
+>>>>>>> 5dcffb5168d3711dbb8d3b89cfcb2dbc2f8a59db
