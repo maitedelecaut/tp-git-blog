@@ -4,7 +4,6 @@ draft = true
 title = "Mot"
 +++
 
-# Les mots dÃ©suets
-
-## Introduction
-
+# Les mots désuets
+ligne 2
+ligne 20
