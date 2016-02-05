@@ -48,13 +48,13 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Comic Sans MS", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
 @media (min-width: 38rem) {
   html {
-    font-size: 20px;
+    font-size: 60px;
   }
 }
 
@@ -150,11 +150,11 @@ abbr[title] {
 /* Code */
 code,
 pre {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family: Menlo, Monaco, "Comic Sans Ms", monospace;
 }
 code {
   padding: .25em .5em;
-  font-size: 85%;
+  font-size: 200%;
   color: #bf616a;
   background-color: #f9f9f9;
   border-radius: 3px;
@@ -382,7 +382,7 @@ tbody tr:nth-child(odd) th {
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
-  background-color: #00F500;
+    background-color: #00F500;
 }
 
 @media (min-width: 30rem) {
