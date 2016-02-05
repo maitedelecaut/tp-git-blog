@@ -1,5 +1,9 @@
 +++
+<<<<<<< HEAD
 date = "2016-2-05T12 : 00 : 00+01 : 00"
+=======
+date = "2014-01-01T12 : 00 : 00+01 : 00"
+>>>>>>> parent of d006cd8... mon commit n°2
 draft = true
 title = "Le poulet"
 +++
