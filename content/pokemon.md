@@ -1,5 +1,0 @@
-# Pokédex
-
-+Rodolphe
-+Timothé
-+Guillaume
