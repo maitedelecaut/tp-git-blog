@@ -6,6 +6,7 @@ title = "Le canard"
 
 #Le canard
 
+<<<<<<< HEAD
 coin coin le canard !
 Il se balade dans la forêt et il rencontre paul le pigeon et dona la truie ils se marrièrent et eurent beaucoup d'enfants.
 Mais un jour ... en nageant dans sa marre : la marre aux cannards il rencontra jojo le piranhas, jojo avait très faim et le mangea.
@@ -13,3 +14,9 @@ Débute ensuite l'histoire de jojo le piranhas, jojo nageait tranquillement le ve
 Débute l'histoire du pêcheur
 mais il mourru en tombant de sa barque.
 FIN.
+=======
+## Configuration
+
+Une histoire sur le canard.
+FIN.
+>>>>>>> ae909e675c20d2df54457174558e4a4f02fdff8f
