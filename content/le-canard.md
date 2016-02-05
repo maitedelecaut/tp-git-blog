@@ -7,7 +7,7 @@ title = "Le canard"
 # Le canard
 
 Lucas le canard !
-Il se balade dans la foret et il rencontre paul le pigeon et dona la truie ils se marrierent et eurent beaucoup d'enfants.
+Il se balade dans la foret, il rencontre et dona la truie ils se marrierent et eurent beaucoup d'enfants.
 Mais un jour ... en nageant dans sa marre : la marre aux cannards il rencontra jojo le piranhas, jojo avait tres faim et le mangea.
 Debute ensuite l'histoire de jojo le piranhas, jojo nageait tranquillement le ventre plein et rencontra un morceau de viande, il le happas dans la gueule et se senti entraine vers la surface, en effet c'etait un pecheur de piranhas qui pechait attendant patiement son repas, le pecheur le pecha, puis le mangea.
 Debute l'histoire du pecheur
