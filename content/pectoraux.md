@@ -5,3 +5,9 @@ title = "Les pectoraux"
 +++
 
 # Les Pectoraux
+
+## Configuration
+
+	git config --global user.name "Rodolphe Vanderaspoilden"
+	git config --global user.email "rodolphevanderaspoilden@outlook.fr"
+	git config --global http.proxy http://cache.univ-lille1.fr3128
