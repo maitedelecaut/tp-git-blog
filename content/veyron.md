@@ -7,6 +7,7 @@ title = "Veyron"
 #Veyron
 
 0 a 100 = 2.9s
+prix de depart = 1.3 million$
 
 ##Configuration
 
