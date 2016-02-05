@@ -5,3 +5,7 @@ title = "mot"
 +++
 
 # Les mots désuets
+
+## Introduction
+
+Gourgandine, Orchidoclaste, Héler, Brais, Cacochyme.... Des mots que vous avez peut être déjà entendu sans réellement en connaître la signification et bien dans cette article nous allons répondre à ces questions.
