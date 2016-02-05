@@ -6,8 +6,11 @@ title = "Veyron"
 
 #Veyron
 
+0 a 100 = 2.9s
+
 ##Configuration
 
 git config --global user.name "Alexandre Pellerin"
 git config --global user.email "pellerin.alex@orange.fr"
 git config --global http.proxy http://cache.univ-lille1.fr:3128
+
