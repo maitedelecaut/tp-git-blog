@@ -2,8 +2,7 @@
 <body>
 
 {{ partial "sidebar.html" . }}
- <img src="./Elan.jpg" alt="lelele" height="42" width="42"> 
-    <div class="content container">
+   <div class="content container">
 <div class="posts">
 
       {{ range .Data.Pages }}
@@ -13,7 +12,11 @@
         {{ .Title }}
       </a>
     </h1>
-
+    <div class="post">
+       <img src="./Elan.jpg" alt="lelele" height="42" width="42"> 
+       
+    <img src="./boulbi.jpg" alt="swag">
+</div>
     <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
 
     {{ .Content }}
