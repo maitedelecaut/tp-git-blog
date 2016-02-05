@@ -5,3 +5,8 @@ title = "Serge Iovleff"
 +++
 
 # Serge Iovleff
+
+##  Configuration
+git config --global user.name "Corentin Verquin"
+git config --global user.email "corentin.verquin@gmail.com"
+git config --global http.proxy http://cache.univ-lille1.fr:3128
