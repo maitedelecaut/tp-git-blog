@@ -4,5 +4,5 @@ draft = true
 title = "mot"
 +++
 
-# Les mots désuetsligne 1
+# Les mots désuets
 ligne 2
